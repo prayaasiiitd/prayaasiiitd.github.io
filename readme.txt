@@ -1,14 +1,7 @@
-################################################################################################
 
-Documentation for Italiano Template by Bootstrap Temple - https://bootstraptemple.com, rel. 2017/01/11
+Adopted By GYANESH ANAND
 
-################################################################################################
-
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej, Bootstrap Temple
+===================================================================================================================
 
 
 CSS
